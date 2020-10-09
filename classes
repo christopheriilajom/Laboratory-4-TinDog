@@ -1,0 +1,60 @@
+/* NavBar */
+navbar bg-transparent
+nav-link
+nav-link text-uppercase
+btn btn-secondary btn-lg
+
+/* Title */
+card bg-transparent float-sm-left
+card-img-top
+card-body
+btn btn-secondary btn-lg btn-block rounded-pill
+card text-white text-center bg-dark mb-3
+card-header
+card-body
+card-text
+
+/* Testimonials */
+jumbotron jumbotron-fluid bg-transparent text-justify
+container
+display-4
+rounded-circle
+lead
+
+/* PRESS */
+carouselExampleControls
+carousel-inner
+carousel-item active
+d-block w-100
+carousel-item
+carousel-control-prev
+carousel-control-prev-icon
+sr-only
+carousel-control-next
+carousel-control-next-icon
+
+/* PRICING */
+jumbotron jumbotron-fluid bg-transparent
+container
+display-4
+lead
+btn btn-secondary btn-lg
+row
+col
+collapse multi-collapse
+card text-white text-center bg-dark mb-3
+card-header
+card-body
+card-title
+card-text
+btn btn-secondary btn-sm
+
+/* Call to Action */
+jumbotron jumbotron-fluid bg-transparent
+container
+display-4
+btn btn-secondary rounded-pill
+
+/* Footer */
+navbar bg-transparent
+navbar-brand
