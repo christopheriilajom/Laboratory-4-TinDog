@@ -15,11 +15,10 @@ card-body
 card-text
 
 /* Testimonials */
-jumbotron jumbotron-fluid bg-transparent text-justify
-container
-display-4
-rounded-circle
-lead
+media
+media-body
+mt-0 mb-1 font-italic
+ml-3 rounded-circle
 
 /* PRESS */
 carouselExampleControls
